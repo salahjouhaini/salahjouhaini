@@ -2,7 +2,7 @@
 <h3 align="center">A passionate cloud and cybersecurity engineering student</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzenMyM2dlbWF6cmJtNHNlb28xcGc4b2I5Z2J0eXM4MWh3eXdocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.gif" alt="GIF" width="500" height="300"/>
+  <img src="[https:/f](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhvanJxYW8xZzliMGp1djN3cG9sY2psaTkxcWprOHJrZHp4cDJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgKEiHf1xNV0h6IcSX/giphy.gif)" alt="GIF" width="500" height="300"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
